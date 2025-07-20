@@ -1,5 +1,3 @@
-"# GDP\_Project1"
-
 # Top 10 Largest Economies by GDP (Nominal)
 
 
